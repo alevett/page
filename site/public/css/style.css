@@ -1,0 +1,110 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+body {
+    background: #FFFFFF;
+    width: auto;
+    font: normal 100% "Avant Garde", Helvetica, Arial, Verdana, sans-serif;
+}
+
+hr, span { display: none; }
+
+div#content {
+	display: block;
+	padding: 3%;
+}
+
+h1 {
+    display: block;
+    font-size: 500%;
+    line-height: 100%;
+    letter-spacing: -3px;
+    color: #4AADF0;
+    margin: .2em 0 .6em 0;
+}
+
+h2, h3, h4 {
+    color: #333;
+    font-size: 250%;
+    letter-spacing: -2px;
+    margin: 0 0 1em 0;
+    line-height: 110%;
+}
+
+h3 {
+    margin: 0 0 5em 0;
+}
+
+h4 {
+    color: #000;
+    font-size: 140%;
+    letter-spacing: -1px;
+}
+
+a,
+a:visited {
+    color: #ee3a44;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+a#flickr,
+a#flickr:visited {
+    color: #0063dc;
+}
+a#twitter,
+a#twitter:visited {
+    color: #9ae4e8;
+}
+a#reading,
+a#reading:visited {
+    color: #FFFF00;
+}
+a#rawnet,
+a#rawnet:visited {
+    color: #CA1A0D;
+}			
+a#windsor,
+a#windsor:visited {
+    color: #0C4A00;
+}
+a#coldfusion,
+a#coldfusion:visited {
+    color: #017395;
+}
+a#rails,
+a#rails:visited {
+    color: #981A21;
+}
+a#php,
+a#php:visited {
+    color: #666699;
+}
+a#mysql,
+a#mysql:visited {
+    color: #E97B00;
+}
+a#tag,
+a#tag:visited {
+    color: #0000FF;
+}
+a#facebook,
+a#facebook:visited {
+    color: #3B5998;
+}
+a#threadless,
+a#threadless:visited {
+    color: #1B325F;
+}
+a#apple,
+a#apple:visited {
+    color: #8a8a8a;
+}
+a#lastfm,
+a#lastfm:visited {
+    color: #D01F3C;
+}
